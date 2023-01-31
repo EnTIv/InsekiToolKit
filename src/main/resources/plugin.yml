@@ -1,0 +1,10 @@
+name: InsekiToolKit
+main: com.entiv.${name}.ToolKitPlugin
+version: ${version}
+api-version: "1.13"
+
+softdepend:
+  - "BentoBox"
+
+libraries:
+  - "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.0"
