@@ -6,8 +6,7 @@
       <paths name="fgs13-survival-town-1">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$/src/main" web="/" />
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/Default/clay-dev-fgs13/Work/survival-town-test-1/plugins" local="$PROJECT_DIR$/build/libs" web="/" />
           </mappings>
         </serverdata>
       </paths>
